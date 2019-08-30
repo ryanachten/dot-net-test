@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{BC27D30C-C92B-4928-80AE-9E6C92C54625}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/SeedData.cs">
+    <Files>
+      <File FileName="Program.cs" Line="17" Column="1" />
+      <File FileName="Program.cs" Line="14" Column="6" />
+      <File FileName="Models/SeedData.cs" Line="26" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesMovie" expanded="True">
+            <Node name="RazorPagesMovie" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="SeedData.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
